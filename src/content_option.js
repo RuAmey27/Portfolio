@@ -20,7 +20,7 @@ const introdata = {
 const dataabout = {
   title: "A bit about my self",
   aboutme:
-    "I'm Amey Pande, a full-stack development fresher with a strong foundation in various technologies, including C, MySQL, NextJS, OOP concepts, Data Structures, Java, Algorithms, Git, GitHub, Blockchain, AWS & cloud services, Docker, Machine Learning, and Python. My passion for coding and technology drives me to constantly learn and implement new concepts. I have worked on several projects demonstrating my skills, ranging from command line tools to full-stack web applications.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    "I'm Amey Pande, a full-stack development fresher with a strong foundation in various technologies, including C, MySQL, NextJS, OOP concepts, Data Structures, Java, Algorithms, Git, GitHub, Blockchain, AWS & cloud services, Docker, Machine Learning, and Python. My passion for coding and technology drives me to constantly learn and implement new concepts. I have worked on several projects demonstrating my skills, ranging from command line tools to full-stack web applications.",
 };
 const worktimeline = [
     {
